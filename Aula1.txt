@@ -1,0 +1,13 @@
+Create a new repository
+Repository name
+Add a readme file
+
+Git bash
+abrir
+git clone "colar"
+
+get add.
+
+git commit -m "mensagem"
+
+git push origin main
